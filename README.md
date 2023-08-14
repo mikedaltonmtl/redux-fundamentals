@@ -1,3 +1,11 @@
+## The Why?
+
+Still trying to learn Redux.... keep chugging away!
+
+This is me following the tutorial from the Redux site all the way to using Toolkit.
+
+https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers
+
 # Redux Fundamentals Tutorial Example
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
